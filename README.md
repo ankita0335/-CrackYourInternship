@@ -26,12 +26,17 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankita0335/-CrackYourInternship/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankita0335/-CrackYourInternship/tree/master/0001-two-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->--LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree
