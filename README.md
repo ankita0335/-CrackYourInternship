@@ -44,10 +44,4 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ankita0335/-CrackYourInternship/tree/master/0075-sort-colors) |
-<!---LeetCode Topics End-->--LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0116-populating-next-right-pointers-in-each-node](https://github.com/ankita0335/-CrackYourInternship/tree/master/0116-populating-next-right-pointers-in-each-node) |
-| [0543-diameter-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0543-diameter-of-binary-tree) |
+<!---LeetCode Topics End-->
