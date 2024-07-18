@@ -1,4 +1,5 @@
 # -CrackYourInternship
+Welcome to the CrackYourPlacement repository! This is where I'm participating in the 45-Day DSA Challenge organised by Arsh Goyal Sir. Here, I'm focused on solving problems related to DSA on the LeetCode platform to improve my coding skills.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree
