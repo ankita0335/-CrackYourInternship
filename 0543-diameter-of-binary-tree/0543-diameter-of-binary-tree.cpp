@@ -1,4 +1,3 @@
-
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -14,7 +13,8 @@ class Solution {
 public:
     int solve(TreeNode* root,int &d)
     {
-        if(!root)   return 0;
+        if(!root)
+            return 0;
         int l=solve(root->left,d);
         int r=solve(root->right,d);
         d=max(d,l+r);
