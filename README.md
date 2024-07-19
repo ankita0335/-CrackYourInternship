@@ -5,6 +5,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ankita0335/-CrackYourInternship/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -17,6 +18,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0543-diameter-of-binary-tree) |
@@ -27,12 +29,14 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ankita0335/-CrackYourInternship/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0226-invert-binary-tree) |
