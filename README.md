@@ -7,6 +7,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0100-same-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ankita0335/-CrackYourInternship/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0226-invert-binary-tree) |
@@ -21,6 +22,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0100-same-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0543-diameter-of-binary-tree) |
@@ -33,6 +35,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0100-same-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ankita0335/-CrackYourInternship/tree/master/0617-merge-two-binary-trees) |
@@ -41,6 +44,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0100-same-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
