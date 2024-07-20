@@ -57,6 +57,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0073-set-matrix-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ankita0335/-CrackYourInternship/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
@@ -91,4 +92,8 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
