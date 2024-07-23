@@ -144,6 +144,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ankita0335/-CrackYourInternship/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
 ## Counting
@@ -175,4 +176,8 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ankita0335/-CrackYourInternship/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
