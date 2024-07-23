@@ -94,6 +94,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankita0335/-CrackYourInternship/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ankita0335/-CrackYourInternship/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -143,6 +144,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
@@ -169,4 +171,8 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0493-reverse-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
