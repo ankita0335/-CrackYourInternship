@@ -84,6 +84,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankita0335/-CrackYourInternship/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ankita0335/-CrackYourInternship/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankita0335/-CrackYourInternship/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0493-reverse-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0975-range-sum-of-bst) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +144,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankita0335/-CrackYourInternship/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Graph
 |  |
 | ------- |
@@ -194,4 +198,8 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 <!---LeetCode Topics End-->
