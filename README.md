@@ -161,6 +161,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankita0335/-CrackYourInternship/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ankita0335/-CrackYourInternship/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
 ## Counting
@@ -211,6 +212,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankita0335/-CrackYourInternship/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankita0335/-CrackYourInternship/tree/master/0084-largest-rectangle-in-histogram) |
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
 ## Monotonic Stack
