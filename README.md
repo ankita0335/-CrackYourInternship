@@ -203,6 +203,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankita0335/-CrackYourInternship/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -216,4 +217,8 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankita0335/-CrackYourInternship/tree/master/0084-largest-rectangle-in-histogram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankita0335/-CrackYourInternship/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
