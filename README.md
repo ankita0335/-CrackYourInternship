@@ -93,6 +93,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0001-two-sum](https://github.com/ankita0335/-CrackYourInternship/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/ankita0335/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ankita0335/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
@@ -105,6 +106,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ankita0335/-CrackYourInternship/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/ankita0335/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -227,5 +229,6 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ankita0335/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
