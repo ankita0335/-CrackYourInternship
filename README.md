@@ -208,6 +208,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0002-add-two-numbers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
@@ -234,6 +235,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ankita0335/-CrackYourInternship/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ankita0335/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
@@ -243,6 +245,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ankita0335/-CrackYourInternship/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/0206-reverse-linked-list) |
 ## Heap (Priority Queue)
