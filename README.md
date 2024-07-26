@@ -82,6 +82,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0493-reverse-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/ankita0335/-CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/1333-sort-the-jumbled-numbers) |
@@ -226,11 +227,13 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0225-implement-stack-using-queues](https://github.com/ankita0335/-CrackYourInternship/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankita0335/-CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/ankita0335/-CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ankita0335/-CrackYourInternship/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankita0335/-CrackYourInternship/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/ankita0335/-CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ankita0335/-CrackYourInternship/tree/master/0937-online-stock-span) |
 ## Bit Manipulation
 |  |
