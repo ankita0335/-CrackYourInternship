@@ -223,6 +223,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankita0335/-CrackYourInternship/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankita0335/-CrackYourInternship/tree/master/0084-largest-rectangle-in-histogram) |
+| [0232-implement-queue-using-stacks](https://github.com/ankita0335/-CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
@@ -264,4 +265,12 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ankita0335/-CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ankita0335/-CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
