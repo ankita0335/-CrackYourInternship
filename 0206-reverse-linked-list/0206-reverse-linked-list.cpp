@@ -21,7 +21,6 @@ public:
             prev=curr;
             curr=nextt;
         }
-        head=prev;
-        return head;
+        return prev;
     }
 };
