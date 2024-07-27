@@ -154,6 +154,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0070-climbing-stairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/ankita0335/-CrackYourInternship/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -249,6 +250,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/ankita0335/-CrackYourInternship/tree/master/0338-counting-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankita0335/-CrackYourInternship/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
