@@ -84,6 +84,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ankita0335/-CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/1072-next-greater-node-in-linked-list) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankita0335/-CrackYourInternship/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -229,12 +230,14 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ankita0335/-CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ankita0335/-CrackYourInternship/tree/master/0937-online-stock-span) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/1072-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankita0335/-CrackYourInternship/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/ankita0335/-CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ankita0335/-CrackYourInternship/tree/master/0937-online-stock-span) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/1072-next-greater-node-in-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -248,6 +251,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0141-linked-list-cycle](https://github.com/ankita0335/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankita0335/-CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
