@@ -44,6 +44,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0404-sum-of-left-leaves](https://github.com/ankita0335/-CrackYourInternship/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ankita0335/-CrackYourInternship/tree/master/0617-merge-two-binary-trees) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/ankita0335/-CrackYourInternship/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Graph
 |  |
 | ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/ankita0335/-CrackYourInternship/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ankita0335/-CrackYourInternship/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
@@ -313,4 +315,8 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0070-climbing-stairs) |
+## Shortest Path
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/ankita0335/-CrackYourInternship/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
