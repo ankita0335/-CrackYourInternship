@@ -85,6 +85,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0493-reverse-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/ankita0335/-CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/1072-next-greater-node-in-linked-list) |
@@ -145,6 +146,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0493-reverse-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0975-range-sum-of-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Divide and Conquer
@@ -162,6 +164,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/ankita0335/-CrackYourInternship/tree/master/0338-counting-bits) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ankita0335/-CrackYourInternship/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1511-count-number-of-teams](https://github.com/ankita0335/-CrackYourInternship/tree/master/1511-count-number-of-teams) |
 ## Greedy
@@ -315,6 +318,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Sliding Window
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankita0335/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Number Theory
 |  |
@@ -328,4 +332,12 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ankita0335/-CrackYourInternship/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
