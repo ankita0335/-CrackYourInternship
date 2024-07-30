@@ -78,6 +78,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0169-majority-element](https://github.com/ankita0335/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/ankita0335/-CrackYourInternship/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/ankita0335/-CrackYourInternship/tree/master/0300-longest-increasing-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -144,6 +145,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/ankita0335/-CrackYourInternship/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -163,6 +165,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0070-climbing-stairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ankita0335/-CrackYourInternship/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/ankita0335/-CrackYourInternship/tree/master/0338-counting-bits) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ankita0335/-CrackYourInternship/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
