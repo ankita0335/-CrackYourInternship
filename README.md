@@ -163,6 +163,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ankita0335/-CrackYourInternship/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -235,6 +236,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -346,4 +348,8 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
