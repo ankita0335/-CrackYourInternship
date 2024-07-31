@@ -1,21 +1,25 @@
 class Solution {
-public:        
-    vector<int> memo;
-    int minHeightShelves(vector<vector<int>>& books, int shelfWidth) {
-        int n = books.size();
-        memo.resize(n, -1);
-        return solve(books, shelfWidth, 0);
+public:
+    int helper(vector<vector<int>>& boxes, int shelf_width, int dp[][1001], int i, int width, int height)
+    {
+        if(width>shelf_width)
+            return INT_MAX;
+        if(i>=boxes.size())
+            return height;
+        if(dp[i][width]!=0)
+            return dp[i][width];
+        
+        int a = height + helper(boxes, shelf_width, dp, i+1, boxes[i][0], boxes[i][1]);
+        int b = helper(boxes, shelf_width,dp,  i+1, width+boxes[i][0], max(height,boxes[i][1]));
+        dp[i][width] = min(a,b);
+        return min(a,b);
     }
-    int solve(vector<vector<int>>& books, int shelfWidth, int ind) {
-        if (ind == books.size()) return 0;
-        if (memo[ind] != -1) return memo[ind];
-        int ans = INT_MAX, maxH = 0, width = 0;
-        for (int i = ind; i < books.size(); ++i) {
-            width += books[i][0];
-            if (width > shelfWidth) break;
-            maxH = max(maxH, books[i][1]);
-            ans = min(ans, maxH + solve(books, shelfWidth, i + 1));
-        }
-        return memo[ind] = ans;
+    int minHeightShelves(vector<vector<int>>& books, int shelf_width) 
+    {
+        int m = books.size();
+        int n = books[0].size();
+        int dp[1001][1001] = {};
+        
+        return helper(books, shelf_width, dp, 0, 0, 0);
     }
 };
