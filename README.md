@@ -98,6 +98,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0739-daily-temperatures](https://github.com/ankita0335/-CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/1072-next-greater-node-in-linked-list) |
+| [1196-filling-bookcase-shelves](https://github.com/ankita0335/-CrackYourInternship/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/1333-sort-the-jumbled-numbers) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ankita0335/-CrackYourInternship/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -180,6 +181,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0322-coin-change](https://github.com/ankita0335/-CrackYourInternship/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ankita0335/-CrackYourInternship/tree/master/0338-counting-bits) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1196-filling-bookcase-shelves](https://github.com/ankita0335/-CrackYourInternship/tree/master/1196-filling-bookcase-shelves) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ankita0335/-CrackYourInternship/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1511-count-number-of-teams](https://github.com/ankita0335/-CrackYourInternship/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankita0335/-CrackYourInternship/tree/master/1756-minimum-deletions-to-make-string-balanced) |
