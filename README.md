@@ -26,6 +26,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0101-symmetric-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ankita0335/-CrackYourInternship/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -40,6 +41,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0100-same-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/ankita0335/-CrackYourInternship/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/ankita0335/-CrackYourInternship/tree/master/0404-sum-of-left-leaves) |
@@ -77,6 +79,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/ankita0335/-CrackYourInternship/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/ankita0335/-CrackYourInternship/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/ankita0335/-CrackYourInternship/tree/master/0300-longest-increasing-subsequence) |
@@ -141,6 +144,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0054-spiral-matrix](https://github.com/ankita0335/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ankita0335/-CrackYourInternship/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/ankita0335/-CrackYourInternship/tree/master/0289-game-of-life) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ankita0335/-CrackYourInternship/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Search Tree
@@ -355,4 +359,8 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
