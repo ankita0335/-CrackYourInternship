@@ -108,6 +108,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1511-count-number-of-teams](https://github.com/ankita0335/-CrackYourInternship/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankita0335/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankita0335/-CrackYourInternship/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankita0335/-CrackYourInternship/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ankita0335/-CrackYourInternship/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
