@@ -93,6 +93,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/ankita0335/-CrackYourInternship/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/ankita0335/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -122,6 +123,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0141-linked-list-cycle](https://github.com/ankita0335/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ankita0335/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ankita0335/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankita0335/-CrackYourInternship/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
@@ -267,6 +269,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ankita0335/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankita0335/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Stack
