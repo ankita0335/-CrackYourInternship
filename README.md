@@ -114,6 +114,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ankita0335/-CrackYourInternship/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1511-count-number-of-teams](https://github.com/ankita0335/-CrackYourInternship/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankita0335/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankita0335/-CrackYourInternship/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankita0335/-CrackYourInternship/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankita0335/-CrackYourInternship/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -145,6 +146,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0141-linked-list-cycle](https://github.com/ankita0335/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankita0335/-CrackYourInternship/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/1333-sort-the-jumbled-numbers) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankita0335/-CrackYourInternship/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankita0335/-CrackYourInternship/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -179,6 +182,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0975-range-sum-of-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0975-range-sum-of-bst) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankita0335/-CrackYourInternship/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Divide and Conquer
 |  |
