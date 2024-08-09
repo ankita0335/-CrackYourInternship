@@ -96,6 +96,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/ankita0335/-CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ankita0335/-CrackYourInternship/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ankita0335/-CrackYourInternship/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ankita0335/-CrackYourInternship/tree/master/0075-sort-colors) |
@@ -222,6 +223,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ankita0335/-CrackYourInternship/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0070-climbing-stairs) |
@@ -239,6 +241,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankita0335/-CrackYourInternship/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
