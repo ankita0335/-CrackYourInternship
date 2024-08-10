@@ -105,6 +105,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0162-find-peak-element](https://github.com/ankita0335/-CrackYourInternship/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ankita0335/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0215-kth-largest-element-in-an-array) |
@@ -202,6 +203,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/ankita0335/-CrackYourInternship/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/ankita0335/-CrackYourInternship/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
