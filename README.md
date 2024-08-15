@@ -129,6 +129,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/ankita0335/-CrackYourInternship/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ankita0335/-CrackYourInternship/tree/master/0739-daily-temperatures) |
+| [0890-lemonade-change](https://github.com/ankita0335/-CrackYourInternship/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/1072-next-greater-node-in-linked-list) |
@@ -254,6 +255,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0011-container-with-most-water](https://github.com/ankita0335/-CrackYourInternship/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0890-lemonade-change](https://github.com/ankita0335/-CrackYourInternship/tree/master/0890-lemonade-change) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
