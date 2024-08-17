@@ -107,6 +107,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0075-sort-colors](https://github.com/ankita0335/-CrackYourInternship/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankita0335/-CrackYourInternship/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -363,6 +364,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/ankita0335/-CrackYourInternship/tree/master/0338-counting-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankita0335/-CrackYourInternship/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
@@ -466,6 +468,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/ankita0335/-CrackYourInternship/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0257-binary-tree-paths) |
 ## Quickselect
 |  |
