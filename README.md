@@ -161,6 +161,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0073-set-matrix-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ankita0335/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ankita0335/-CrackYourInternship/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankita0335/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
@@ -246,6 +247,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita0335/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ankita0335/-CrackYourInternship/tree/master/0131-palindrome-partitioning) |
+| [0264-ugly-number-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ankita0335/-CrackYourInternship/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ankita0335/-CrackYourInternship/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ankita0335/-CrackYourInternship/tree/master/0338-counting-bits) |
@@ -331,6 +333,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0002-add-two-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/ankita0335/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
 | [0445-add-two-numbers-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -398,6 +401,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankita0335/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
 ## Bucket Sort
