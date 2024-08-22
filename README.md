@@ -101,6 +101,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0001-two-sum](https://github.com/ankita0335/-CrackYourInternship/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ankita0335/-CrackYourInternship/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/ankita0335/-CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/ankita0335/-CrackYourInternship/tree/master/0049-group-anagrams) |
@@ -220,6 +221,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/ankita0335/-CrackYourInternship/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/ankita0335/-CrackYourInternship/tree/master/0173-binary-search-tree-iterator) |
