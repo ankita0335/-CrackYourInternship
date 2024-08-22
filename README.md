@@ -27,6 +27,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0975-range-sum-of-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [3486-count-the-number-of-good-nodes](https://github.com/ankita0335/-CrackYourInternship/tree/master/3486-count-the-number-of-good-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [3486-count-the-number-of-good-nodes](https://github.com/ankita0335/-CrackYourInternship/tree/master/3486-count-the-number-of-good-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
