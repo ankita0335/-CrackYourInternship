@@ -104,6 +104,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0033-search-in-rotated-sorted-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/ankita0335/-CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/ankita0335/-CrackYourInternship/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ankita0335/-CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ankita0335/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0055-jump-game) |
@@ -162,6 +163,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0001-two-sum](https://github.com/ankita0335/-CrackYourInternship/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/ankita0335/-CrackYourInternship/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ankita0335/-CrackYourInternship/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ankita0335/-CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ankita0335/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
