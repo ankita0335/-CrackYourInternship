@@ -68,6 +68,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ankita0335/-CrackYourInternship/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankita0335/-CrackYourInternship/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2727-number-of-senior-citizens](https://github.com/ankita0335/-CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
 | [3373-maximum-prime-difference](https://github.com/ankita0335/-CrackYourInternship/tree/master/3373-maximum-prime-difference) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankita0335/-CrackYourInternship/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -270,6 +272,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ankita0335/-CrackYourInternship/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ankita0335/-CrackYourInternship/tree/master/2472-build-a-matrix-with-conditions) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankita0335/-CrackYourInternship/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
