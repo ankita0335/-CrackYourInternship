@@ -158,6 +158,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [2727-number-of-senior-citizens](https://github.com/ankita0335/-CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
 | [3373-maximum-prime-difference](https://github.com/ankita0335/-CrackYourInternship/tree/master/3373-maximum-prime-difference) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankita0335/-CrackYourInternship/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -450,6 +451,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankita0335/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Number Theory
 |  |
 | ------- |
