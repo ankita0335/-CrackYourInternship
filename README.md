@@ -125,6 +125,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0289-game-of-life](https://github.com/ankita0335/-CrackYourInternship/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/ankita0335/-CrackYourInternship/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ankita0335/-CrackYourInternship/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/ankita0335/-CrackYourInternship/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -201,6 +202,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0088-merge-sorted-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ankita0335/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/ankita0335/-CrackYourInternship/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
@@ -263,6 +265,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0300-longest-increasing-subsequence](https://github.com/ankita0335/-CrackYourInternship/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ankita0335/-CrackYourInternship/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ankita0335/-CrackYourInternship/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/ankita0335/-CrackYourInternship/tree/master/0435-non-overlapping-intervals) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1196-filling-bookcase-shelves](https://github.com/ankita0335/-CrackYourInternship/tree/master/1196-filling-bookcase-shelves) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ankita0335/-CrackYourInternship/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -275,6 +278,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0011-container-with-most-water](https://github.com/ankita0335/-CrackYourInternship/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/ankita0335/-CrackYourInternship/tree/master/0435-non-overlapping-intervals) |
 | [0890-lemonade-change](https://github.com/ankita0335/-CrackYourInternship/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/ankita0335/-CrackYourInternship/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankita0335/-CrackYourInternship/tree/master/1700-minimum-time-to-make-rope-colorful) |
