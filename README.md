@@ -154,6 +154,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankita0335/-CrackYourInternship/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankita0335/-CrackYourInternship/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankita0335/-CrackYourInternship/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -180,6 +181,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0560-subarray-sum-equals-k](https://github.com/ankita0335/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankita0335/-CrackYourInternship/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
