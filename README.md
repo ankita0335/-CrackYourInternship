@@ -108,6 +108,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0037-sudoku-solver](https://github.com/ankita0335/-CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ankita0335/-CrackYourInternship/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/ankita0335/-CrackYourInternship/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ankita0335/-CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ankita0335/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0055-jump-game) |
@@ -222,6 +223,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ankita0335/-CrackYourInternship/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/ankita0335/-CrackYourInternship/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankita0335/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ankita0335/-CrackYourInternship/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
@@ -358,6 +360,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/ankita0335/-CrackYourInternship/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
