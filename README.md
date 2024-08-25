@@ -14,6 +14,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ankita0335/-CrackYourInternship/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ankita0335/-CrackYourInternship/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ankita0335/-CrackYourInternship/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -35,6 +36,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0101-symmetric-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ankita0335/-CrackYourInternship/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -82,6 +84,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ankita0335/-CrackYourInternship/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ankita0335/-CrackYourInternship/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -376,6 +379,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankita0335/-CrackYourInternship/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankita0335/-CrackYourInternship/tree/master/0084-largest-rectangle-in-histogram) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ankita0335/-CrackYourInternship/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ankita0335/-CrackYourInternship/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/ankita0335/-CrackYourInternship/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankita0335/-CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
