@@ -169,6 +169,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [2472-build-a-matrix-with-conditions](https://github.com/ankita0335/-CrackYourInternship/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/ankita0335/-CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
 | [3373-maximum-prime-difference](https://github.com/ankita0335/-CrackYourInternship/tree/master/3373-maximum-prime-difference) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankita0335/-CrackYourInternship/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -193,6 +194,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -226,6 +228,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ankita0335/-CrackYourInternship/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
@@ -340,6 +343,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0054-spiral-matrix](https://github.com/ankita0335/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/ankita0335/-CrackYourInternship/tree/master/0289-game-of-life) |
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -450,6 +454,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0264-ugly-number-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankita0335/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Bucket Sort
 |  |
 | ------- |
