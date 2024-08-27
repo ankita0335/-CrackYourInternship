@@ -184,6 +184,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0141-linked-list-cycle](https://github.com/ankita0335/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ankita0335/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ankita0335/-CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankita0335/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankita0335/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -320,6 +321,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0131-palindrome-partitioning](https://github.com/ankita0335/-CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/ankita0335/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
+| [0424-longest-repeating-character-replacement](https://github.com/ankita0335/-CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankita0335/-CrackYourInternship/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankita0335/-CrackYourInternship/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -481,6 +483,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ankita0335/-CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankita0335/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
