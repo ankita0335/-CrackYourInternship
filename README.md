@@ -119,6 +119,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0041-first-missing-positive](https://github.com/ankita0335/-CrackYourInternship/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/ankita0335/-CrackYourInternship/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ankita0335/-CrackYourInternship/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ankita0335/-CrackYourInternship/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ankita0335/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ankita0335/-CrackYourInternship/tree/master/0064-minimum-path-sum) |
@@ -542,6 +543,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0037-sudoku-solver](https://github.com/ankita0335/-CrackYourInternship/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/ankita0335/-CrackYourInternship/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ankita0335/-CrackYourInternship/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ankita0335/-CrackYourInternship/tree/master/0131-palindrome-partitioning) |
