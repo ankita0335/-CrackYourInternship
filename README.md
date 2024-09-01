@@ -170,6 +170,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankita0335/-CrackYourInternship/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2035-count-sub-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ankita0335/-CrackYourInternship/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ankita0335/-CrackYourInternship/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -254,6 +255,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ankita0335/-CrackYourInternship/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ankita0335/-CrackYourInternship/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Search Tree
 |  |
@@ -355,6 +357,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0054-spiral-matrix](https://github.com/ankita0335/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/ankita0335/-CrackYourInternship/tree/master/0289-game-of-life) |
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Binary Indexed Tree
 |  |
