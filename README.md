@@ -168,6 +168,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankita0335/-CrackYourInternship/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankita0335/-CrackYourInternship/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankita0335/-CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ankita0335/-CrackYourInternship/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -273,6 +274,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankita0335/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankita0335/-CrackYourInternship/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankita0335/-CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Divide and Conquer
 |  |
@@ -357,6 +359,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0054-spiral-matrix](https://github.com/ankita0335/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/ankita0335/-CrackYourInternship/tree/master/0289-game-of-life) |
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankita0335/-CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Binary Indexed Tree
@@ -407,6 +410,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ankita0335/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankita0335/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankita0335/-CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Stack
 |  |
