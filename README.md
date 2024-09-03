@@ -51,6 +51,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0617-merge-two-binary-trees](https://github.com/ankita0335/-CrackYourInternship/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/ankita0335/-CrackYourInternship/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankita0335/-CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankita0335/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -75,6 +76,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ankita0335/-CrackYourInternship/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/ankita0335/-CrackYourInternship/tree/master/0733-flood-fill) |
+| [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/2035-count-sub-islands) |
@@ -151,6 +153,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/ankita0335/-CrackYourInternship/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ankita0335/-CrackYourInternship/tree/master/0739-daily-temperatures) |
+| [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [0890-lemonade-change](https://github.com/ankita0335/-CrackYourInternship/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
@@ -198,6 +201,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0424-longest-repeating-character-replacement](https://github.com/ankita0335/-CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankita0335/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
+| [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankita0335/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankita0335/-CrackYourInternship/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -341,6 +345,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0257-binary-tree-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/ankita0335/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankita0335/-CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
+| [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankita0335/-CrackYourInternship/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankita0335/-CrackYourInternship/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ankita0335/-CrackYourInternship/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -545,6 +550,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/0200-number-of-islands) |
+| [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankita0335/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/2035-count-sub-islands) |
 ## Iterator
