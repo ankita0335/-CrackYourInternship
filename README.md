@@ -46,6 +46,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ankita0335/-CrackYourInternship/tree/master/0404-sum-of-left-leaves) |
+| [0419-battleships-in-a-board](https://github.com/ankita0335/-CrackYourInternship/tree/master/0419-battleships-in-a-board) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ankita0335/-CrackYourInternship/tree/master/0617-merge-two-binary-trees) |
@@ -141,6 +142,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0289-game-of-life](https://github.com/ankita0335/-CrackYourInternship/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/ankita0335/-CrackYourInternship/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ankita0335/-CrackYourInternship/tree/master/0322-coin-change) |
+| [0419-battleships-in-a-board](https://github.com/ankita0335/-CrackYourInternship/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/ankita0335/-CrackYourInternship/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -255,6 +257,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0073-set-matrix-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/ankita0335/-CrackYourInternship/tree/master/0289-game-of-life) |
+| [0419-battleships-in-a-board](https://github.com/ankita0335/-CrackYourInternship/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/ankita0335/-CrackYourInternship/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
