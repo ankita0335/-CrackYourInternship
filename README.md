@@ -329,6 +329,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1325-path-with-maximum-probability](https://github.com/ankita0335/-CrackYourInternship/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ankita0335/-CrackYourInternship/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ankita0335/-CrackYourInternship/tree/master/2472-build-a-matrix-with-conditions) |
+| [2803-modify-graph-edge-weights](https://github.com/ankita0335/-CrackYourInternship/tree/master/2803-modify-graph-edge-weights) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankita0335/-CrackYourInternship/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
@@ -483,6 +484,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/ankita0335/-CrackYourInternship/tree/master/1325-path-with-maximum-probability) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2803-modify-graph-edge-weights](https://github.com/ankita0335/-CrackYourInternship/tree/master/2803-modify-graph-edge-weights) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -534,6 +536,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/ankita0335/-CrackYourInternship/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ankita0335/-CrackYourInternship/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2803-modify-graph-edge-weights](https://github.com/ankita0335/-CrackYourInternship/tree/master/2803-modify-graph-edge-weights) |
 ## Rolling Hash
 |  |
 | ------- |
