@@ -160,6 +160,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0739-daily-temperatures](https://github.com/ankita0335/-CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [0890-lemonade-change](https://github.com/ankita0335/-CrackYourInternship/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/ankita0335/-CrackYourInternship/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/1072-next-greater-node-in-linked-list) |
@@ -207,6 +208,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankita0335/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
+| [0906-walking-robot-simulation](https://github.com/ankita0335/-CrackYourInternship/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankita0335/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -375,6 +377,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0054-spiral-matrix](https://github.com/ankita0335/-CrackYourInternship/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/ankita0335/-CrackYourInternship/tree/master/0289-game-of-life) |
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
+| [0906-walking-robot-simulation](https://github.com/ankita0335/-CrackYourInternship/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankita0335/-CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ankita0335/-CrackYourInternship/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
