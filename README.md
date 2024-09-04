@@ -334,6 +334,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankita0335/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/ankita0335/-CrackYourInternship/tree/master/1325-path-with-maximum-probability) |
+| [1738-maximal-network-rank](https://github.com/ankita0335/-CrackYourInternship/tree/master/1738-maximal-network-rank) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ankita0335/-CrackYourInternship/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ankita0335/-CrackYourInternship/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/ankita0335/-CrackYourInternship/tree/master/2803-modify-graph-edge-weights) |
