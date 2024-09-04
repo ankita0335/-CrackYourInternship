@@ -354,6 +354,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0257-binary-tree-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/ankita0335/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankita0335/-CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/ankita0335/-CrackYourInternship/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankita0335/-CrackYourInternship/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankita0335/-CrackYourInternship/tree/master/1756-minimum-deletions-to-make-string-balanced) |
