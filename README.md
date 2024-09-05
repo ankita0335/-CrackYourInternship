@@ -53,6 +53,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0617-merge-two-binary-trees](https://github.com/ankita0335/-CrackYourInternship/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/ankita0335/-CrackYourInternship/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankita0335/-CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0813-all-paths-from-source-to-target](https://github.com/ankita0335/-CrackYourInternship/tree/master/0813-all-paths-from-source-to-target) |
 | [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0975-range-sum-of-bst) |
@@ -79,6 +80,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ankita0335/-CrackYourInternship/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/ankita0335/-CrackYourInternship/tree/master/0733-flood-fill) |
+| [0813-all-paths-from-source-to-target](https://github.com/ankita0335/-CrackYourInternship/tree/master/0813-all-paths-from-source-to-target) |
 | [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -334,6 +336,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/ankita0335/-CrackYourInternship/tree/master/0813-all-paths-from-source-to-target) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankita0335/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/ankita0335/-CrackYourInternship/tree/master/1325-path-with-maximum-probability) |
 | [1738-maximal-network-rank](https://github.com/ankita0335/-CrackYourInternship/tree/master/1738-maximal-network-rank) |
@@ -582,6 +585,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0090-subsets-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ankita0335/-CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0257-binary-tree-paths) |
+| [0813-all-paths-from-source-to-target](https://github.com/ankita0335/-CrackYourInternship/tree/master/0813-all-paths-from-source-to-target) |
 ## Quickselect
 |  |
 | ------- |
