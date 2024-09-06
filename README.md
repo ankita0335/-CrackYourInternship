@@ -51,6 +51,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ankita0335/-CrackYourInternship/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankita0335/-CrackYourInternship/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankita0335/-CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/ankita0335/-CrackYourInternship/tree/master/0813-all-paths-from-source-to-target) |
@@ -79,6 +80,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0404-sum-of-left-leaves](https://github.com/ankita0335/-CrackYourInternship/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ankita0335/-CrackYourInternship/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankita0335/-CrackYourInternship/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/ankita0335/-CrackYourInternship/tree/master/0813-all-paths-from-source-to-target) |
 | [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
@@ -157,6 +159,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0560-subarray-sum-equals-k](https://github.com/ankita0335/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/ankita0335/-CrackYourInternship/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ankita0335/-CrackYourInternship/tree/master/0739-daily-temperatures) |
@@ -267,6 +270,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0200-number-of-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/ankita0335/-CrackYourInternship/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/ankita0335/-CrackYourInternship/tree/master/0419-battleships-in-a-board) |
+| [0695-max-area-of-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankita0335/-CrackYourInternship/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -571,6 +575,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/0695-max-area-of-island) |
 | [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankita0335/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/2035-count-sub-islands) |
