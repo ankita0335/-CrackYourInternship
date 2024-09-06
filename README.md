@@ -60,6 +60,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0975-range-sum-of-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankita0335/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
+| [1380-number-of-closed-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/1380-number-of-closed-islands) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -85,6 +86,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0813-all-paths-from-source-to-target](https://github.com/ankita0335/-CrackYourInternship/tree/master/0813-all-paths-from-source-to-target) |
 | [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
+| [1380-number-of-closed-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/1380-number-of-closed-islands) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/2035-count-sub-islands) |
@@ -173,6 +175,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/ankita0335/-CrackYourInternship/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/1333-sort-the-jumbled-numbers) |
+| [1380-number-of-closed-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/1380-number-of-closed-islands) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ankita0335/-CrackYourInternship/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1511-count-number-of-teams](https://github.com/ankita0335/-CrackYourInternship/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankita0335/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -273,6 +276,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0695-max-area-of-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankita0335/-CrackYourInternship/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
+| [1380-number-of-closed-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/1380-number-of-closed-islands) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ankita0335/-CrackYourInternship/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -578,6 +582,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0695-max-area-of-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/0695-max-area-of-island) |
 | [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankita0335/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1380-number-of-closed-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/2035-count-sub-islands) |
 ## Iterator
 |  |
