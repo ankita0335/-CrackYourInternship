@@ -86,6 +86,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0813-all-paths-from-source-to-target](https://github.com/ankita0335/-CrackYourInternship/tree/master/0813-all-paths-from-source-to-target) |
 | [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
+| [1117-as-far-from-land-as-possible](https://github.com/ankita0335/-CrackYourInternship/tree/master/1117-as-far-from-land-as-possible) |
 | [1380-number-of-closed-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/1380-number-of-closed-islands) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -171,6 +172,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/1072-next-greater-node-in-linked-list) |
+| [1117-as-far-from-land-as-possible](https://github.com/ankita0335/-CrackYourInternship/tree/master/1117-as-far-from-land-as-possible) |
 | [1196-filling-bookcase-shelves](https://github.com/ankita0335/-CrackYourInternship/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/ankita0335/-CrackYourInternship/tree/master/1325-path-with-maximum-probability) |
@@ -276,6 +278,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0695-max-area-of-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankita0335/-CrackYourInternship/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
+| [1117-as-far-from-land-as-possible](https://github.com/ankita0335/-CrackYourInternship/tree/master/1117-as-far-from-land-as-possible) |
 | [1380-number-of-closed-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/1380-number-of-closed-islands) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/2035-count-sub-islands) |
@@ -324,6 +327,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0338-counting-bits](https://github.com/ankita0335/-CrackYourInternship/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/ankita0335/-CrackYourInternship/tree/master/0435-non-overlapping-intervals) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1117-as-far-from-land-as-possible](https://github.com/ankita0335/-CrackYourInternship/tree/master/1117-as-far-from-land-as-possible) |
 | [1196-filling-bookcase-shelves](https://github.com/ankita0335/-CrackYourInternship/tree/master/1196-filling-bookcase-shelves) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ankita0335/-CrackYourInternship/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1511-count-number-of-teams](https://github.com/ankita0335/-CrackYourInternship/tree/master/1511-count-number-of-teams) |
