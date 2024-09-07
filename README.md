@@ -172,6 +172,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/1072-next-greater-node-in-linked-list) |
+| [1095-two-city-scheduling](https://github.com/ankita0335/-CrackYourInternship/tree/master/1095-two-city-scheduling) |
 | [1117-as-far-from-land-as-possible](https://github.com/ankita0335/-CrackYourInternship/tree/master/1117-as-far-from-land-as-possible) |
 | [1196-filling-bookcase-shelves](https://github.com/ankita0335/-CrackYourInternship/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
@@ -259,6 +260,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
+| [1095-two-city-scheduling](https://github.com/ankita0335/-CrackYourInternship/tree/master/1095-two-city-scheduling) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/1333-sort-the-jumbled-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankita0335/-CrackYourInternship/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankita0335/-CrackYourInternship/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -344,6 +346,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ankita0335/-CrackYourInternship/tree/master/0435-non-overlapping-intervals) |
 | [0890-lemonade-change](https://github.com/ankita0335/-CrackYourInternship/tree/master/0890-lemonade-change) |
+| [1095-two-city-scheduling](https://github.com/ankita0335/-CrackYourInternship/tree/master/1095-two-city-scheduling) |
 | [1448-maximum-69-number](https://github.com/ankita0335/-CrackYourInternship/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankita0335/-CrackYourInternship/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ankita0335/-CrackYourInternship/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
