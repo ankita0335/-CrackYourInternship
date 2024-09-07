@@ -29,6 +29,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankita0335/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [3486-count-the-number-of-good-nodes](https://github.com/ankita0335/-CrackYourInternship/tree/master/3486-count-the-number-of-good-nodes) |
@@ -61,6 +62,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankita0335/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1380-number-of-closed-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/1380-number-of-closed-islands) |
+| [1484-linked-list-in-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ankita0335/-CrackYourInternship/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -89,6 +91,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/ankita0335/-CrackYourInternship/tree/master/1117-as-far-from-land-as-possible) |
 | [1380-number-of-closed-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/1380-number-of-closed-islands) |
+| [1484-linked-list-in-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ankita0335/-CrackYourInternship/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -121,6 +124,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankita0335/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Array
 |  |
@@ -510,6 +514,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0908-middle-of-the-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankita0335/-CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1484-linked-list-in-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
