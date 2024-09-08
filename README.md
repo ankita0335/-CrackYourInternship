@@ -511,6 +511,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0142-linked-list-cycle-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0445-add-two-numbers-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/ankita0335/-CrackYourInternship/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankita0335/-CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
