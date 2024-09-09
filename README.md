@@ -390,6 +390,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0424-longest-repeating-character-replacement](https://github.com/ankita0335/-CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ankita0335/-CrackYourInternship/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankita0335/-CrackYourInternship/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankita0335/-CrackYourInternship/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -609,6 +610,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0695-max-area-of-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/0695-max-area-of-island) |
 | [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankita0335/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1380-number-of-closed-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ankita0335/-CrackYourInternship/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/2035-count-sub-islands) |
