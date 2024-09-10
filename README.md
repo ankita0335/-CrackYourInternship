@@ -461,6 +461,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankita0335/-CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankita0335/-CrackYourInternship/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/ankita0335/-CrackYourInternship/tree/master/1448-maximum-69-number) |
+| [2083-three-divisors](https://github.com/ankita0335/-CrackYourInternship/tree/master/2083-three-divisors) |
 | [2155-find-missing-observations](https://github.com/ankita0335/-CrackYourInternship/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/ankita0335/-CrackYourInternship/tree/master/3373-maximum-prime-difference) |
@@ -584,6 +585,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/ankita0335/-CrackYourInternship/tree/master/2083-three-divisors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/ankita0335/-CrackYourInternship/tree/master/3373-maximum-prime-difference) |
 ## Memoization
@@ -642,4 +644,8 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/ankita0335/-CrackYourInternship/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
