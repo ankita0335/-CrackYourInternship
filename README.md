@@ -399,6 +399,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ankita0335/-CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ankita0335/-CrackYourInternship/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Counting
 |  |
 | ------- |
@@ -465,6 +466,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [2155-find-missing-observations](https://github.com/ankita0335/-CrackYourInternship/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/ankita0335/-CrackYourInternship/tree/master/3373-maximum-prime-difference) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ankita0335/-CrackYourInternship/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Prefix Sum
 |  |
 | ------- |
