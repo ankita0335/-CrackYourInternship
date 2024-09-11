@@ -510,6 +510,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0338-counting-bits](https://github.com/ankita0335/-CrackYourInternship/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/ankita0335/-CrackYourInternship/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankita0335/-CrackYourInternship/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/ankita0335/-CrackYourInternship/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
 | ------- |
