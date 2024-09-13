@@ -241,6 +241,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2487-optimal-partition-of-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -365,6 +366,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1448-maximum-69-number](https://github.com/ankita0335/-CrackYourInternship/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankita0335/-CrackYourInternship/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ankita0335/-CrackYourInternship/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2487-optimal-partition-of-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/2487-optimal-partition-of-string) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
@@ -403,6 +405,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ankita0335/-CrackYourInternship/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ankita0335/-CrackYourInternship/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2487-optimal-partition-of-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ankita0335/-CrackYourInternship/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
