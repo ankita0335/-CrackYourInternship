@@ -211,6 +211,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ankita0335/-CrackYourInternship/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2411-spiral-matrix-iv](https://github.com/ankita0335/-CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ankita0335/-CrackYourInternship/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -245,6 +246,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/2428-equal-row-and-column-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/ankita0335/-CrackYourInternship/tree/master/2502-sort-the-people) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -308,6 +310,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ankita0335/-CrackYourInternship/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ankita0335/-CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ankita0335/-CrackYourInternship/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Search Tree
 |  |
@@ -436,6 +439,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ankita0335/-CrackYourInternship/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/ankita0335/-CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/2428-equal-row-and-column-pairs) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Binary Indexed Tree
 |  |
