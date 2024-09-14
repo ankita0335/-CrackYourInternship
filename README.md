@@ -206,6 +206,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankita0335/-CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ankita0335/-CrackYourInternship/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ankita0335/-CrackYourInternship/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -309,6 +310,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ankita0335/-CrackYourInternship/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ankita0335/-CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/2428-equal-row-and-column-pairs) |
@@ -363,6 +365,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1511-count-number-of-teams](https://github.com/ankita0335/-CrackYourInternship/tree/master/1511-count-number-of-teams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankita0335/-CrackYourInternship/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankita0335/-CrackYourInternship/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 ## Greedy
 |  |
 | ------- |
