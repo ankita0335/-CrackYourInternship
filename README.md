@@ -200,6 +200,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankita0335/-CrackYourInternship/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankita0335/-CrackYourInternship/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankita0335/-CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1833-find-the-highest-altitude](https://github.com/ankita0335/-CrackYourInternship/tree/master/1833-find-the-highest-altitude) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankita0335/-CrackYourInternship/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankita0335/-CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -495,6 +496,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0560-subarray-sum-equals-k](https://github.com/ankita0335/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankita0335/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1833-find-the-highest-altitude](https://github.com/ankita0335/-CrackYourInternship/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankita0335/-CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankita0335/-CrackYourInternship/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Stack
