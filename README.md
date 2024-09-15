@@ -243,6 +243,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0906-walking-robot-simulation](https://github.com/ankita0335/-CrackYourInternship/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankita0335/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankita0335/-CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankita0335/-CrackYourInternship/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankita0335/-CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -412,6 +413,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0521-longest-uncommon-subsequence-i](https://github.com/ankita0335/-CrackYourInternship/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankita0335/-CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankita0335/-CrackYourInternship/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankita0335/-CrackYourInternship/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankita0335/-CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -499,6 +501,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ankita0335/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankita0335/-CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ankita0335/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/ankita0335/-CrackYourInternship/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankita0335/-CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -536,6 +539,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0476-number-complement](https://github.com/ankita0335/-CrackYourInternship/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankita0335/-CrackYourInternship/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankita0335/-CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankita0335/-CrackYourInternship/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ankita0335/-CrackYourInternship/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankita0335/-CrackYourInternship/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
