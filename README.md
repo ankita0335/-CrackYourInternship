@@ -170,6 +170,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/ankita0335/-CrackYourInternship/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0493-reverse-pairs) |
+| [0539-minimum-time-difference](https://github.com/ankita0335/-CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/ankita0335/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
@@ -281,6 +282,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0215-kth-largest-element-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/ankita0335/-CrackYourInternship/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0539-minimum-time-difference](https://github.com/ankita0335/-CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [1095-two-city-scheduling](https://github.com/ankita0335/-CrackYourInternship/tree/master/1095-two-city-scheduling) |
@@ -413,6 +415,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0424-longest-repeating-character-replacement](https://github.com/ankita0335/-CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0449-serialize-and-deserialize-bst) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ankita0335/-CrackYourInternship/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0539-minimum-time-difference](https://github.com/ankita0335/-CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0869-similar-string-groups](https://github.com/ankita0335/-CrackYourInternship/tree/master/0869-similar-string-groups) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankita0335/-CrackYourInternship/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -488,6 +491,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0445-add-two-numbers-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0539-minimum-time-difference](https://github.com/ankita0335/-CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankita0335/-CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankita0335/-CrackYourInternship/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
