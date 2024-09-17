@@ -33,6 +33,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1484-linked-list-in-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2384-root-equals-sum-of-children](https://github.com/ankita0335/-CrackYourInternship/tree/master/2384-root-equals-sum-of-children) |
 | [3486-count-the-number-of-good-nodes](https://github.com/ankita0335/-CrackYourInternship/tree/master/3486-count-the-number-of-good-nodes) |
 ## Depth-First Search
 |  |
@@ -130,6 +131,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2384-root-equals-sum-of-children](https://github.com/ankita0335/-CrackYourInternship/tree/master/2384-root-equals-sum-of-children) |
 ## Array
 |  |
 | ------- |
