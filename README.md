@@ -185,6 +185,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0906-walking-robot-simulation](https://github.com/ankita0335/-CrackYourInternship/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [0971-shortest-bridge](https://github.com/ankita0335/-CrackYourInternship/tree/master/0971-shortest-bridge) |
+| [1014-k-closest-points-to-origin](https://github.com/ankita0335/-CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/1072-next-greater-node-in-linked-list) |
 | [1095-two-city-scheduling](https://github.com/ankita0335/-CrackYourInternship/tree/master/1095-two-city-scheduling) |
 | [1117-as-far-from-land-as-possible](https://github.com/ankita0335/-CrackYourInternship/tree/master/1117-as-far-from-land-as-possible) |
@@ -288,6 +289,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0539-minimum-time-difference](https://github.com/ankita0335/-CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ankita0335/-CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1095-two-city-scheduling](https://github.com/ankita0335/-CrackYourInternship/tree/master/1095-two-city-scheduling) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/1333-sort-the-jumbled-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankita0335/-CrackYourInternship/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -349,6 +351,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0215-kth-largest-element-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ankita0335/-CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -498,6 +501,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/ankita0335/-CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/ankita0335/-CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankita0335/-CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankita0335/-CrackYourInternship/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/ankita0335/-CrackYourInternship/tree/master/1448-maximum-69-number) |
@@ -591,6 +595,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0264-ugly-number-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankita0335/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ankita0335/-CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/ankita0335/-CrackYourInternship/tree/master/1325-path-with-maximum-probability) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ankita0335/-CrackYourInternship/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/ankita0335/-CrackYourInternship/tree/master/2803-modify-graph-edge-weights) |
@@ -692,6 +697,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ankita0335/-CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -708,4 +714,8 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankita0335/-CrackYourInternship/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ankita0335/-CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
