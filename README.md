@@ -81,6 +81,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankita0335/-CrackYourInternship/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0127-word-ladder](https://github.com/ankita0335/-CrackYourInternship/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/ankita0335/-CrackYourInternship/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/ankita0335/-CrackYourInternship/tree/master/0322-coin-change) |
@@ -237,6 +238,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0041-first-missing-positive](https://github.com/ankita0335/-CrackYourInternship/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ankita0335/-CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ankita0335/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/ankita0335/-CrackYourInternship/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/ankita0335/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ankita0335/-CrackYourInternship/tree/master/0169-majority-element) |
@@ -421,6 +423,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankita0335/-CrackYourInternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/ankita0335/-CrackYourInternship/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ankita0335/-CrackYourInternship/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/ankita0335/-CrackYourInternship/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ankita0335/-CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/ankita0335/-CrackYourInternship/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0257-binary-tree-paths) |
