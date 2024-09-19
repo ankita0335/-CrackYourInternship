@@ -374,6 +374,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/ankita0335/-CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ankita0335/-CrackYourInternship/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankita0335/-CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ankita0335/-CrackYourInternship/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ankita0335/-CrackYourInternship/tree/master/0322-coin-change) |
@@ -430,6 +431,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0127-word-ladder](https://github.com/ankita0335/-CrackYourInternship/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ankita0335/-CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/ankita0335/-CrackYourInternship/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankita0335/-CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/ankita0335/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankita0335/-CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
@@ -508,6 +510,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0048-rotate-image](https://github.com/ankita0335/-CrackYourInternship/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankita0335/-CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/ankita0335/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
 | [0445-add-two-numbers-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0445-add-two-numbers-ii) |
@@ -601,6 +604,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0002-add-two-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ankita0335/-CrackYourInternship/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankita0335/-CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ankita0335/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
 ## Heap (Priority Queue)
 |  |
@@ -663,6 +667,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankita0335/-CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 ## Shortest Path
 |  |
 | ------- |
