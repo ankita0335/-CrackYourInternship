@@ -23,6 +23,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0257-binary-tree-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ankita0335/-CrackYourInternship/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0543-diameter-of-binary-tree) |
@@ -129,6 +130,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0257-binary-tree-paths](https://github.com/ankita0335/-CrackYourInternship/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ankita0335/-CrackYourInternship/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0543-diameter-of-binary-tree) |
@@ -356,6 +358,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/ankita0335/-CrackYourInternship/tree/master/0300-longest-increasing-subsequence) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0538-convert-bst-to-greater-tree) |
