@@ -26,6 +26,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ankita0335/-CrackYourInternship/tree/master/0617-merge-two-binary-trees) |
+| [0654-maximum-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0654-maximum-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankita0335/-CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankita0335/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0975-range-sum-of-bst) |
@@ -127,6 +128,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ankita0335/-CrackYourInternship/tree/master/0617-merge-two-binary-trees) |
+| [0654-maximum-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0654-maximum-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankita0335/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/ankita0335/-CrackYourInternship/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/-CrackYourInternship/tree/master/1207-delete-nodes-and-return-forest) |
@@ -179,6 +181,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0539-minimum-time-difference](https://github.com/ankita0335/-CrackYourInternship/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/ankita0335/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita0335/-CrackYourInternship/tree/master/0628-maximum-product-of-three-numbers) |
+| [0654-maximum-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/ankita0335/-CrackYourInternship/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ankita0335/-CrackYourInternship/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -358,6 +361,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0169-majority-element](https://github.com/ankita0335/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/ankita0335/-CrackYourInternship/tree/master/0493-reverse-pairs) |
+| [0654-maximum-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/ankita0335/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ankita0335/-CrackYourInternship/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -551,6 +555,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 | [0225-implement-stack-using-queues](https://github.com/ankita0335/-CrackYourInternship/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankita0335/-CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/ankita0335/-CrackYourInternship/tree/master/0445-add-two-numbers-ii) |
+| [0654-maximum-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/ankita0335/-CrackYourInternship/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ankita0335/-CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankita0335/-CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -561,6 +566,7 @@ Welcome to the CrackYourPlacement repository! This is where I'm participating in
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankita0335/-CrackYourInternship/tree/master/0084-largest-rectangle-in-histogram) |
+| [0654-maximum-binary-tree](https://github.com/ankita0335/-CrackYourInternship/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/ankita0335/-CrackYourInternship/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ankita0335/-CrackYourInternship/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ankita0335/-CrackYourInternship/tree/master/1072-next-greater-node-in-linked-list) |
